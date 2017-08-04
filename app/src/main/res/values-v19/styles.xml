@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!--This makes the status bar transparent in KK and Lollipop-->
+        <!--You do not need values-v21 and if you create them make sure you extend from this one-->
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+    </style>
+</resources>
